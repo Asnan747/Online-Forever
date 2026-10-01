@@ -3,7 +3,7 @@ import json
 import requests
 import websockets
 
-TOKEN = "NjY2MDIyNDYzMTUwMzU4NTM5.Gqfw_8.7EfSYv1Xdr8x7vq-E37sNreMZh23DDSK29k9LU"
+TOKEN = "NjY2MDIyNDYzMTUwMzU4NTM5.G2fkwW.tsGNIWQYkvdITehIKVgUjGJSrySGJqGVBiBVeE"
 STATUS = "online"  # online / dnd / idle
 CUSTOM_STATUS = "Hey!"  # Leave empty if you don't want a custom status
 USE_EMOJI = False
